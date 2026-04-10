@@ -1,0 +1,1146 @@
+[
+  {
+    "persona_id": 1,
+    "audience_size": 986,
+    "audience_percentage": "34.4%",
+    "themes": {
+      "demographics": {
+        "Neighbors: Immigrants/foreign workers": {
+          "mean": 0.9533468559837728,
+          "direction": "AVERAGE"
+        },
+        "Neighbors: Homosexuals": {
+          "mean": 0.9219066937119675,
+          "direction": "AVERAGE"
+        },
+        "Neighbors: People who speak a different language": {
+          "mean": 0.9553752535496958,
+          "direction": "AVERAGE"
+        },
+        "Jobs scarce: Employers should give priority to (nation) people than immigrants": {
+          "mean": 1.9338742393509127,
+          "direction": "AVERAGE"
+        },
+        "Jobs scarce: Employers should give priority to (nation) people than immigrants.1": {
+          "mode": "Agree",
+          "percentage": 45.13184584178499
+        }
+      },
+      "social_values": {
+        "Important in life: Family": {
+          "mean": 0.2799188640973631,
+          "direction": "HIGH"
+        },
+        "Important in life: Friends": {
+          "mean": 0.691683569979716,
+          "direction": "AVERAGE"
+        },
+        "Important in life: Leisure time": {
+          "mean": 0.7870182555780934,
+          "direction": "AVERAGE"
+        },
+        "Important in life: Politics": {
+          "mean": 1.7058823529411764,
+          "direction": "AVERAGE"
+        },
+        "Important in life: Work": {
+          "mean": 1.304259634888438,
+          "direction": "AVERAGE"
+        }
+      },
+      "happiness_wellbeing": {
+        "Feeling of happiness": {
+          "mean": 0.8833671399594321,
+          "direction": "AVERAGE"
+        },
+        "State of health (subjective)": {
+          "mean": 3.8620689655172415,
+          "direction": "AVERAGE"
+        },
+        "How much freedom of choice and control": {
+          "mean": 7.259634888438134,
+          "direction": "AVERAGE"
+        },
+        "Satisfaction with your life": {
+          "mean": 7.313184584178498,
+          "direction": "AVERAGE"
+        },
+        "Satisfaction with financial situation of household": {
+          "mean": 6.764503042596349,
+          "direction": "AVERAGE"
+        }
+      },
+      "social_capital_trust": {
+        "Most people can be trusted": {
+          "mean": 0.6663286004056795,
+          "direction": "AVERAGE"
+        },
+        "How much you trust: Your family": {
+          "mean": 5.0588235294117645,
+          "direction": "AVERAGE"
+        },
+        "Trust: Your neighborhood": {
+          "mean": 5.129817444219067,
+          "direction": "AVERAGE"
+        },
+        "Trust: People you know personally": {
+          "mean": 5.309330628803245,
+          "direction": "AVERAGE"
+        },
+        "Trust: People you meet for the first time": {
+          "mean": 3.5628803245436105,
+          "direction": "AVERAGE"
+        }
+      },
+      "economic_values": {
+        "Private vs state ownership of business": {
+          "mean": 4.733468559837728,
+          "direction": "AVERAGE"
+        },
+        "Competition good or harmful": {
+          "mean": 3.87079107505071,
+          "direction": "AVERAGE"
+        },
+        "Success: hard work vs luck": {
+          "mean": 4.41764705882353,
+          "direction": "AVERAGE"
+        },
+        "Protecting environment vs. Economic growth": {
+          "mean": 1.2565922920892494,
+          "direction": "HIGH"
+        }
+      },
+      "corruption_perceptions": {
+        "Perceptions of corruption in the country": {
+          "mean": 5.52576064908722,
+          "direction": "LOW"
+        },
+        "Involved in corruption: State authorities": {
+          "mean": 1.105476673427992,
+          "direction": "HIGH"
+        },
+        "nvolved in corruption: Business executives": {
+          "mean": 1.1612576064908722,
+          "direction": "HIGH"
+        },
+        "Involved in corruption: Local authorities": {
+          "mean": 1.0983772819472617,
+          "direction": "HIGH"
+        },
+        "Involved in corruption: Civil service providers": {
+          "mean": 1.028397565922921,
+          "direction": "HIGH"
+        }
+      },
+      "security_concerns": {
+        "Worries: Losing my job or not finding a job": {
+          "mean": 2.255578093306288,
+          "direction": "AVERAGE"
+        },
+        "Worries: A war involving my country": {
+          "mean": 2.0121703853955375,
+          "direction": "AVERAGE"
+        },
+        "Worries: A terrorist attack": {
+          "mean": 2.202839756592292,
+          "direction": "AVERAGE"
+        },
+        "Worries: A civil war": {
+          "mean": 1.9330628803245435,
+          "direction": "AVERAGE"
+        },
+        "Willingness to fight for country": {
+          "mean": 0.39046653144016225,
+          "direction": "LOW"
+        }
+      },
+      "postmaterialism": {
+        "Aims of country: first choice": {
+          "mean": 1.9523326572008113,
+          "direction": "AVERAGE"
+        },
+        "Aims of country: second choice": {
+          "mean": 3.7190669371196754,
+          "direction": "HIGH"
+        },
+        "Aims of respondent: first choice": {
+          "mean": 3.184584178498986,
+          "direction": "AVERAGE"
+        },
+        "Aims of respondent: second choice": {
+          "mean": 3.4817444219066935,
+          "direction": "AVERAGE"
+        }
+      },
+      "science_technology": {
+        "Future changes: More emphasis on technology": {
+          "mean": 1.411764705882353,
+          "direction": "AVERAGE"
+        },
+        "Because of science and technology, there will be more opportunities for the next\ngeneration": {
+          "mean": 6.48762677484787,
+          "direction": "AVERAGE"
+        },
+        "We depend too much on science and not enough on faith": {
+          "mean": 4.635496957403651,
+          "direction": "AVERAGE"
+        },
+        "One of the bad effects of science is that it breaks down people\u2019s ideas of right and\nwrong": {
+          "mean": 4.6359026369168355,
+          "direction": "AVERAGE"
+        },
+        "It is not important for me to know about science in my daily life": {
+          "mean": 4.8028397565922925,
+          "direction": "AVERAGE"
+        }
+      },
+      "religious_values": {
+        "Importance of God": {
+          "mean": 7.475659229208925,
+          "direction": "AVERAGE"
+        },
+        "Believe in: God": {
+          "mean": 0.43509127789046653,
+          "direction": "LOW"
+        },
+        "Believe in: life after death": {
+          "mean": 0.3894523326572008,
+          "direction": "LOW"
+        },
+        "Believe in: hell": {
+          "mean": 0.1845841784989858,
+          "direction": "LOW"
+        },
+        "Believe in: heaven": {
+          "mean": 0.31237322515212984,
+          "direction": "LOW"
+        }
+      },
+      "ethical_values": {
+        "Justifiable: Claiming government benefits to which you are not entitled": {
+          "mean": 7.844827586206897,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Avoiding a fare on public transport": {
+          "mean": 7.108519269776877,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Stealing property": {
+          "mean": 9.400608519269777,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Cheating on taxes": {
+          "mean": 7.846855983772819,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Prostitution": {
+          "mean": 5.579310344827587,
+          "direction": "AVERAGE"
+        }
+      },
+      "political_interest": {
+        "Interest in politics": {
+          "mean": 1.3022312373225151,
+          "direction": "AVERAGE"
+        },
+        "Political action: Signing a petition": {
+          "mean": 1.3204868154158216,
+          "direction": "AVERAGE"
+        },
+        "Political action: joining in boycotts": {
+          "mean": 2.383367139959432,
+          "direction": "AVERAGE"
+        },
+        "Political action: attending lawful/peaceful demonstrations": {
+          "mean": 2.340770791075051,
+          "direction": "AVERAGE"
+        },
+        "Social activism: Encouraging others to vote": {
+          "mode": "Have done",
+          "percentage": 62.88032454361054
+        }
+      },
+      "political_culture": {
+        "Confidence: The Churches": {
+          "mode": "Not very much",
+          "percentage": 39.553752535496955
+        },
+        "Confidence: The armed forces": {
+          "mode": "Quite a lot",
+          "percentage": 55.78093306288032
+        },
+        "Confidence: The press": {
+          "mean": 1.150709939148073,
+          "direction": "HIGH"
+        },
+        "Confidence: Television": {
+          "mean": 1.2338742393509128,
+          "direction": "HIGH"
+        },
+        "Confidence: Labour Unions": {
+          "mode": "Not very much",
+          "percentage": 41.17647058823529
+        }
+      }
+    },
+    "suggested_name": "Young Religious"
+  },
+  {
+    "persona_id": 2,
+    "audience_size": 96,
+    "audience_percentage": "3.3%",
+    "themes": {
+      "demographics": {
+        "Neighbors: Immigrants/foreign workers": {
+          "mean": 0.9270833333333334,
+          "direction": "AVERAGE"
+        },
+        "Neighbors: Homosexuals": {
+          "mean": 0.8958333333333334,
+          "direction": "AVERAGE"
+        },
+        "Neighbors: People who speak a different language": {
+          "mean": 0.9270833333333334,
+          "direction": "AVERAGE"
+        },
+        "Jobs scarce: Employers should give priority to (nation) people than immigrants": {
+          "mean": 2.0708333333333333,
+          "direction": "AVERAGE"
+        },
+        "Jobs scarce: Employers should give priority to (nation) people than immigrants.1": {
+          "mode": "Agree",
+          "percentage": 44.79166666666667
+        }
+      },
+      "social_values": {
+        "Important in life: Family": {
+          "mean": 0.71875,
+          "direction": "HIGH"
+        },
+        "Important in life: Friends": {
+          "mean": 1.3854166666666667,
+          "direction": "HIGH"
+        },
+        "Important in life: Leisure time": {
+          "mean": 1.65625,
+          "direction": "HIGH"
+        },
+        "Important in life: Politics": {
+          "mean": 2.25,
+          "direction": "HIGH"
+        },
+        "Important in life: Work": {
+          "mean": 2.1979166666666665,
+          "direction": "HIGH"
+        }
+      },
+      "happiness_wellbeing": {
+        "Feeling of happiness": {
+          "mean": 1.21875,
+          "direction": "HIGH"
+        },
+        "State of health (subjective)": {
+          "mean": 4.322916666666667,
+          "direction": "AVERAGE"
+        },
+        "How much freedom of choice and control": {
+          "mean": 6.900000000000001,
+          "direction": "AVERAGE"
+        },
+        "Satisfaction with your life": {
+          "mean": 7.283333333333334,
+          "direction": "AVERAGE"
+        },
+        "Satisfaction with financial situation of household": {
+          "mean": 6.833333333333333,
+          "direction": "AVERAGE"
+        }
+      },
+      "social_capital_trust": {
+        "Most people can be trusted": {
+          "mean": 1.5208333333333333,
+          "direction": "HIGH"
+        },
+        "How much you trust: Your family": {
+          "mean": 5.020833333333333,
+          "direction": "AVERAGE"
+        },
+        "Trust: Your neighborhood": {
+          "mean": 4.885416666666667,
+          "direction": "AVERAGE"
+        },
+        "Trust: People you know personally": {
+          "mean": 5.03125,
+          "direction": "AVERAGE"
+        },
+        "Trust: People you meet for the first time": {
+          "mean": 3.8020833333333335,
+          "direction": "AVERAGE"
+        }
+      },
+      "economic_values": {
+        "Private vs state ownership of business": {
+          "mean": 4.7,
+          "direction": "AVERAGE"
+        },
+        "Competition good or harmful": {
+          "mean": 3.983333333333333,
+          "direction": "AVERAGE"
+        },
+        "Success: hard work vs luck": {
+          "mean": 4.397916666666666,
+          "direction": "AVERAGE"
+        },
+        "Protecting environment vs. Economic growth": {
+          "mean": 1.0416666666666667,
+          "direction": "HIGH"
+        }
+      },
+      "corruption_perceptions": {
+        "Perceptions of corruption in the country": {
+          "mean": 6.266666666666666,
+          "direction": "AVERAGE"
+        },
+        "Involved in corruption: State authorities": {
+          "mean": 1.8020833333333333,
+          "direction": "HIGH"
+        },
+        "nvolved in corruption: Business executives": {
+          "mean": 1.7291666666666667,
+          "direction": "HIGH"
+        },
+        "Involved in corruption: Local authorities": {
+          "mean": 1.75,
+          "direction": "HIGH"
+        },
+        "Involved in corruption: Civil service providers": {
+          "mean": 1.875,
+          "direction": "HIGH"
+        }
+      },
+      "security_concerns": {
+        "Worries: Losing my job or not finding a job": {
+          "mean": 2.6354166666666665,
+          "direction": "HIGH"
+        },
+        "Worries: A war involving my country": {
+          "mean": 2.3958333333333335,
+          "direction": "AVERAGE"
+        },
+        "Worries: A terrorist attack": {
+          "mean": 2.4375,
+          "direction": "AVERAGE"
+        },
+        "Worries: A civil war": {
+          "mean": 2.53125,
+          "direction": "HIGH"
+        },
+        "Willingness to fight for country": {
+          "mean": 0.4583333333333333,
+          "direction": "AVERAGE"
+        }
+      },
+      "postmaterialism": {
+        "Aims of country: first choice": {
+          "mean": 2.21875,
+          "direction": "AVERAGE"
+        },
+        "Aims of country: second choice": {
+          "mean": 3.8020833333333335,
+          "direction": "HIGH"
+        },
+        "Aims of respondent: first choice": {
+          "mean": 3.3125,
+          "direction": "HIGH"
+        },
+        "Aims of respondent: second choice": {
+          "mean": 3.8645833333333335,
+          "direction": "HIGH"
+        }
+      },
+      "science_technology": {
+        "Future changes: More emphasis on technology": {
+          "mean": 1.96875,
+          "direction": "HIGH"
+        },
+        "Because of science and technology, there will be more opportunities for the next\ngeneration": {
+          "mean": 6.618750000000001,
+          "direction": "AVERAGE"
+        },
+        "We depend too much on science and not enough on faith": {
+          "mean": 4.908333333333332,
+          "direction": "AVERAGE"
+        },
+        "One of the bad effects of science is that it breaks down people\u2019s ideas of right and\nwrong": {
+          "mean": 4.78125,
+          "direction": "AVERAGE"
+        },
+        "It is not important for me to know about science in my daily life": {
+          "mean": 4.885416666666667,
+          "direction": "AVERAGE"
+        }
+      },
+      "religious_values": {
+        "Importance of God": {
+          "mean": 7.833333333333333,
+          "direction": "AVERAGE"
+        },
+        "Believe in: God": {
+          "mean": 0.625,
+          "direction": "HIGH"
+        },
+        "Believe in: life after death": {
+          "mean": 0.375,
+          "direction": "LOW"
+        },
+        "Believe in: hell": {
+          "mean": 0.20833333333333334,
+          "direction": "LOW"
+        },
+        "Believe in: heaven": {
+          "mean": 0.3854166666666667,
+          "direction": "AVERAGE"
+        }
+      },
+      "ethical_values": {
+        "Justifiable: Claiming government benefits to which you are not entitled": {
+          "mean": 8.947916666666666,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Avoiding a fare on public transport": {
+          "mean": 8.697916666666666,
+          "direction": "HIGH"
+        },
+        "Justifiable: Stealing property": {
+          "mean": 10.104166666666666,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Cheating on taxes": {
+          "mean": 9.34375,
+          "direction": "HIGH"
+        },
+        "Justifiable: Prostitution": {
+          "mean": 5.420833333333333,
+          "direction": "AVERAGE"
+        }
+      },
+      "political_interest": {
+        "Interest in politics": {
+          "mean": 1.28125,
+          "direction": "AVERAGE"
+        },
+        "Political action: Signing a petition": {
+          "mean": 1.4479166666666667,
+          "direction": "HIGH"
+        },
+        "Political action: joining in boycotts": {
+          "mean": 2.9479166666666665,
+          "direction": "HIGH"
+        },
+        "Political action: attending lawful/peaceful demonstrations": {
+          "mean": 2.78125,
+          "direction": "HIGH"
+        },
+        "Social activism: Encouraging others to vote": {
+          "mode": "Have done",
+          "percentage": 50.0
+        }
+      },
+      "political_culture": {
+        "Confidence: The Churches": {
+          "mode": "Not very much",
+          "percentage": 36.45833333333333
+        },
+        "Confidence: The armed forces": {
+          "mode": "Quite a lot",
+          "percentage": 41.66666666666667
+        },
+        "Confidence: The press": {
+          "mean": 1.1520833333333333,
+          "direction": "HIGH"
+        },
+        "Confidence: Television": {
+          "mean": 1.2458333333333333,
+          "direction": "HIGH"
+        },
+        "Confidence: Labour Unions": {
+          "mode": "Not very much",
+          "percentage": 34.375
+        }
+      }
+    },
+    "suggested_name": "Young Religious"
+  },
+  {
+    "persona_id": 3,
+    "audience_size": 973,
+    "audience_percentage": "33.9%",
+    "themes": {
+      "demographics": {
+        "Neighbors: Immigrants/foreign workers": {
+          "mean": 0.9732785200411099,
+          "direction": "AVERAGE"
+        },
+        "Neighbors: Homosexuals": {
+          "mean": 0.9835560123329907,
+          "direction": "AVERAGE"
+        },
+        "Neighbors: People who speak a different language": {
+          "mean": 0.9640287769784173,
+          "direction": "AVERAGE"
+        },
+        "Jobs scarce: Employers should give priority to (nation) people than immigrants": {
+          "mean": 1.64912641315519,
+          "direction": "LOW"
+        },
+        "Jobs scarce: Employers should give priority to (nation) people than immigrants.1": {
+          "mode": "Disagree",
+          "percentage": 48.30421377183967
+        }
+      },
+      "social_values": {
+        "Important in life: Family": {
+          "mean": 0.12744090441932168,
+          "direction": "LOW"
+        },
+        "Important in life: Friends": {
+          "mean": 0.46659815005138744,
+          "direction": "LOW"
+        },
+        "Important in life: Leisure time": {
+          "mean": 0.5981500513874615,
+          "direction": "LOW"
+        },
+        "Important in life: Politics": {
+          "mean": 1.3987667009249742,
+          "direction": "LOW"
+        },
+        "Important in life: Work": {
+          "mean": 1.0483042137718397,
+          "direction": "LOW"
+        }
+      },
+      "happiness_wellbeing": {
+        "Feeling of happiness": {
+          "mean": 0.7831449126413155,
+          "direction": "AVERAGE"
+        },
+        "State of health (subjective)": {
+          "mean": 3.8180883864337103,
+          "direction": "AVERAGE"
+        },
+        "How much freedom of choice and control": {
+          "mean": 7.409660842754368,
+          "direction": "AVERAGE"
+        },
+        "Satisfaction with your life": {
+          "mean": 7.418499486125386,
+          "direction": "AVERAGE"
+        },
+        "Satisfaction with financial situation of household": {
+          "mean": 6.680575539568345,
+          "direction": "AVERAGE"
+        }
+      },
+      "social_capital_trust": {
+        "Most people can be trusted": {
+          "mean": 0.6731757451181911,
+          "direction": "AVERAGE"
+        },
+        "How much you trust: Your family": {
+          "mean": 5.110996916752312,
+          "direction": "AVERAGE"
+        },
+        "Trust: Your neighborhood": {
+          "mean": 5.307297019527235,
+          "direction": "AVERAGE"
+        },
+        "Trust: People you know personally": {
+          "mean": 5.47070914696814,
+          "direction": "AVERAGE"
+        },
+        "Trust: People you meet for the first time": {
+          "mean": 4.060637204522097,
+          "direction": "HIGH"
+        }
+      },
+      "economic_values": {
+        "Private vs state ownership of business": {
+          "mean": 5.355601233299075,
+          "direction": "AVERAGE"
+        },
+        "Competition good or harmful": {
+          "mean": 4.0363823227132585,
+          "direction": "AVERAGE"
+        },
+        "Success: hard work vs luck": {
+          "mean": 4.562795477903392,
+          "direction": "AVERAGE"
+        },
+        "Protecting environment vs. Economic growth": {
+          "mean": 0.8314491264131552,
+          "direction": "AVERAGE"
+        }
+      },
+      "corruption_perceptions": {
+        "Perceptions of corruption in the country": {
+          "mean": 6.350256937307297,
+          "direction": "AVERAGE"
+        },
+        "Involved in corruption: State authorities": {
+          "mean": 0.3751284686536485,
+          "direction": "LOW"
+        },
+        "nvolved in corruption: Business executives": {
+          "mean": 0.8520041109969168,
+          "direction": "LOW"
+        },
+        "Involved in corruption: Local authorities": {
+          "mean": 0.41212744090441933,
+          "direction": "LOW"
+        },
+        "Involved in corruption: Civil service providers": {
+          "mean": 0.2774922918807811,
+          "direction": "LOW"
+        }
+      },
+      "security_concerns": {
+        "Worries: Losing my job or not finding a job": {
+          "mean": 2.2302158273381294,
+          "direction": "AVERAGE"
+        },
+        "Worries: A war involving my country": {
+          "mean": 2.212744090441932,
+          "direction": "AVERAGE"
+        },
+        "Worries: A terrorist attack": {
+          "mean": 2.3710174717368964,
+          "direction": "AVERAGE"
+        },
+        "Worries: A civil war": {
+          "mean": 1.8746145940390544,
+          "direction": "AVERAGE"
+        },
+        "Willingness to fight for country": {
+          "mean": 0.4830421377183967,
+          "direction": "AVERAGE"
+        }
+      },
+      "postmaterialism": {
+        "Aims of country: first choice": {
+          "mean": 2.198355601233299,
+          "direction": "AVERAGE"
+        },
+        "Aims of country: second choice": {
+          "mean": 3.198355601233299,
+          "direction": "AVERAGE"
+        },
+        "Aims of respondent: first choice": {
+          "mean": 2.868448098663926,
+          "direction": "AVERAGE"
+        },
+        "Aims of respondent: second choice": {
+          "mean": 3.1356628982528263,
+          "direction": "AVERAGE"
+        }
+      },
+      "science_technology": {
+        "Future changes: More emphasis on technology": {
+          "mean": 1.435765673175745,
+          "direction": "AVERAGE"
+        },
+        "Because of science and technology, there will be more opportunities for the next\ngeneration": {
+          "mean": 6.720452209660842,
+          "direction": "AVERAGE"
+        },
+        "We depend too much on science and not enough on faith": {
+          "mean": 4.338951695786228,
+          "direction": "AVERAGE"
+        },
+        "One of the bad effects of science is that it breaks down people\u2019s ideas of right and\nwrong": {
+          "mean": 4.459815005138746,
+          "direction": "AVERAGE"
+        },
+        "It is not important for me to know about science in my daily life": {
+          "mean": 4.395272353545735,
+          "direction": "AVERAGE"
+        }
+      },
+      "religious_values": {
+        "Importance of God": {
+          "mean": 7.183967112024666,
+          "direction": "AVERAGE"
+        },
+        "Believe in: God": {
+          "mean": 0.41007194244604317,
+          "direction": "LOW"
+        },
+        "Believe in: life after death": {
+          "mean": 0.42137718396711205,
+          "direction": "LOW"
+        },
+        "Believe in: hell": {
+          "mean": 0.13874614594039056,
+          "direction": "LOW"
+        },
+        "Believe in: heaven": {
+          "mean": 0.31449126413155193,
+          "direction": "LOW"
+        }
+      },
+      "ethical_values": {
+        "Justifiable: Claiming government benefits to which you are not entitled": {
+          "mean": 8.008221993833505,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Avoiding a fare on public transport": {
+          "mean": 6.221993833504625,
+          "direction": "LOW"
+        },
+        "Justifiable: Stealing property": {
+          "mean": 9.050359712230216,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Cheating on taxes": {
+          "mean": 7.351490236382323,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Prostitution": {
+          "mean": 5.7866392600205545,
+          "direction": "AVERAGE"
+        }
+      },
+      "political_interest": {
+        "Interest in politics": {
+          "mean": 1.2312435765673175,
+          "direction": "AVERAGE"
+        },
+        "Political action: Signing a petition": {
+          "mean": 1.1336073997944502,
+          "direction": "LOW"
+        },
+        "Political action: joining in boycotts": {
+          "mean": 2.228160328879753,
+          "direction": "LOW"
+        },
+        "Political action: attending lawful/peaceful demonstrations": {
+          "mean": 2.1171634121274407,
+          "direction": "LOW"
+        },
+        "Social activism: Encouraging others to vote": {
+          "mode": "Have done",
+          "percentage": 61.15107913669065
+        }
+      },
+      "political_culture": {
+        "Confidence: The Churches": {
+          "mode": "Not very much",
+          "percentage": 48.201438848920866
+        },
+        "Confidence: The armed forces": {
+          "mode": "Quite a lot",
+          "percentage": 56.52620760534429
+        },
+        "Confidence: The press": {
+          "mean": 1.0612538540596093,
+          "direction": "AVERAGE"
+        },
+        "Confidence: Television": {
+          "mean": 1.0117163412127441,
+          "direction": "AVERAGE"
+        },
+        "Confidence: Labour Unions": {
+          "mode": "Not very much",
+          "percentage": 47.89311408016444
+        }
+      }
+    },
+    "suggested_name": "Young Religious"
+  },
+  {
+    "persona_id": 4,
+    "audience_size": 815,
+    "audience_percentage": "28.4%",
+    "themes": {
+      "demographics": {
+        "Neighbors: Immigrants/foreign workers": {
+          "mean": 0.8650306748466258,
+          "direction": "AVERAGE"
+        },
+        "Neighbors: Homosexuals": {
+          "mean": 0.7963190184049079,
+          "direction": "LOW"
+        },
+        "Neighbors: People who speak a different language": {
+          "mean": 0.8368098159509203,
+          "direction": "AVERAGE"
+        },
+        "Jobs scarce: Employers should give priority to (nation) people than immigrants": {
+          "mean": 2.278036809815951,
+          "direction": "HIGH"
+        },
+        "Jobs scarce: Employers should give priority to (nation) people than immigrants.1": {
+          "mode": "Agree",
+          "percentage": 63.312883435582826
+        }
+      },
+      "social_values": {
+        "Important in life: Family": {
+          "mean": 0.12269938650306748,
+          "direction": "LOW"
+        },
+        "Important in life: Friends": {
+          "mean": 0.660122699386503,
+          "direction": "AVERAGE"
+        },
+        "Important in life: Leisure time": {
+          "mean": 0.8920245398773006,
+          "direction": "HIGH"
+        },
+        "Important in life: Politics": {
+          "mean": 1.614723926380368,
+          "direction": "AVERAGE"
+        },
+        "Important in life: Work": {
+          "mean": 1.169325153374233,
+          "direction": "AVERAGE"
+        }
+      },
+      "happiness_wellbeing": {
+        "Feeling of happiness": {
+          "mean": 0.8098159509202454,
+          "direction": "AVERAGE"
+        },
+        "State of health (subjective)": {
+          "mean": 4.10920245398773,
+          "direction": "AVERAGE"
+        },
+        "How much freedom of choice and control": {
+          "mean": 6.939386503067485,
+          "direction": "AVERAGE"
+        },
+        "Satisfaction with your life": {
+          "mean": 7.16122699386503,
+          "direction": "AVERAGE"
+        },
+        "Satisfaction with financial situation of household": {
+          "mean": 6.39239263803681,
+          "direction": "AVERAGE"
+        }
+      },
+      "social_capital_trust": {
+        "Most people can be trusted": {
+          "mean": 0.41840490797546015,
+          "direction": "LOW"
+        },
+        "How much you trust: Your family": {
+          "mean": 5.067484662576687,
+          "direction": "AVERAGE"
+        },
+        "Trust: Your neighborhood": {
+          "mean": 4.898159509202454,
+          "direction": "AVERAGE"
+        },
+        "Trust: People you know personally": {
+          "mean": 5.322699386503068,
+          "direction": "AVERAGE"
+        },
+        "Trust: People you meet for the first time": {
+          "mean": 3.139877300613497,
+          "direction": "LOW"
+        }
+      },
+      "economic_values": {
+        "Private vs state ownership of business": {
+          "mean": 5.112638036809816,
+          "direction": "AVERAGE"
+        },
+        "Competition good or harmful": {
+          "mean": 4.3079754601227,
+          "direction": "AVERAGE"
+        },
+        "Success: hard work vs luck": {
+          "mean": 4.605644171779142,
+          "direction": "AVERAGE"
+        },
+        "Protecting environment vs. Economic growth": {
+          "mean": 0.554601226993865,
+          "direction": "LOW"
+        }
+      },
+      "corruption_perceptions": {
+        "Perceptions of corruption in the country": {
+          "mean": 6.974969325153375,
+          "direction": "HIGH"
+        },
+        "Involved in corruption: State authorities": {
+          "mean": 0.754601226993865,
+          "direction": "AVERAGE"
+        },
+        "nvolved in corruption: Business executives": {
+          "mean": 1.0760736196319018,
+          "direction": "AVERAGE"
+        },
+        "Involved in corruption: Local authorities": {
+          "mean": 0.8220858895705522,
+          "direction": "AVERAGE"
+        },
+        "Involved in corruption: Civil service providers": {
+          "mean": 0.5852760736196319,
+          "direction": "LOW"
+        }
+      },
+      "security_concerns": {
+        "Worries: Losing my job or not finding a job": {
+          "mean": 2.226993865030675,
+          "direction": "AVERAGE"
+        },
+        "Worries: A war involving my country": {
+          "mean": 2.4319018404907977,
+          "direction": "AVERAGE"
+        },
+        "Worries: A terrorist attack": {
+          "mean": 2.573006134969325,
+          "direction": "AVERAGE"
+        },
+        "Worries: A civil war": {
+          "mean": 1.8687116564417179,
+          "direction": "AVERAGE"
+        },
+        "Willingness to fight for country": {
+          "mean": 0.6024539877300613,
+          "direction": "HIGH"
+        }
+      },
+      "postmaterialism": {
+        "Aims of country: first choice": {
+          "mean": 2.247852760736196,
+          "direction": "AVERAGE"
+        },
+        "Aims of country: second choice": {
+          "mean": 2.7177914110429446,
+          "direction": "LOW"
+        },
+        "Aims of respondent: first choice": {
+          "mean": 2.7791411042944785,
+          "direction": "AVERAGE"
+        },
+        "Aims of respondent: second choice": {
+          "mean": 3.0404907975460125,
+          "direction": "AVERAGE"
+        }
+      },
+      "science_technology": {
+        "Future changes: More emphasis on technology": {
+          "mean": 1.4858895705521473,
+          "direction": "AVERAGE"
+        },
+        "Because of science and technology, there will be more opportunities for the next\ngeneration": {
+          "mean": 6.394601226993864,
+          "direction": "AVERAGE"
+        },
+        "We depend too much on science and not enough on faith": {
+          "mean": 5.41521472392638,
+          "direction": "HIGH"
+        },
+        "One of the bad effects of science is that it breaks down people\u2019s ideas of right and\nwrong": {
+          "mean": 5.114355828220859,
+          "direction": "AVERAGE"
+        },
+        "It is not important for me to know about science in my daily life": {
+          "mean": 4.998282208588957,
+          "direction": "AVERAGE"
+        }
+      },
+      "religious_values": {
+        "Importance of God": {
+          "mean": 7.7607361963190185,
+          "direction": "AVERAGE"
+        },
+        "Believe in: God": {
+          "mean": 0.7668711656441718,
+          "direction": "HIGH"
+        },
+        "Believe in: life after death": {
+          "mean": 0.6392638036809816,
+          "direction": "HIGH"
+        },
+        "Believe in: hell": {
+          "mean": 0.44785276073619634,
+          "direction": "HIGH"
+        },
+        "Believe in: heaven": {
+          "mean": 0.6760736196319018,
+          "direction": "HIGH"
+        }
+      },
+      "ethical_values": {
+        "Justifiable: Claiming government benefits to which you are not entitled": {
+          "mean": 9.2159509202454,
+          "direction": "HIGH"
+        },
+        "Justifiable: Avoiding a fare on public transport": {
+          "mean": 8.278527607361964,
+          "direction": "HIGH"
+        },
+        "Justifiable: Stealing property": {
+          "mean": 9.990184049079755,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Cheating on taxes": {
+          "mean": 8.695705521472393,
+          "direction": "AVERAGE"
+        },
+        "Justifiable: Prostitution": {
+          "mean": 5.18478527607362,
+          "direction": "AVERAGE"
+        }
+      },
+      "political_interest": {
+        "Interest in politics": {
+          "mean": 1.5141104294478527,
+          "direction": "HIGH"
+        },
+        "Political action: Signing a petition": {
+          "mean": 1.4797546012269938,
+          "direction": "HIGH"
+        },
+        "Political action: joining in boycotts": {
+          "mean": 3.1165644171779143,
+          "direction": "HIGH"
+        },
+        "Political action: attending lawful/peaceful demonstrations": {
+          "mean": 3.0662576687116565,
+          "direction": "HIGH"
+        },
+        "Social activism: Encouraging others to vote": {
+          "mode": "Might do",
+          "percentage": 39.38650306748466
+        }
+      },
+      "political_culture": {
+        "Confidence: The Churches": {
+          "mode": "Not very much",
+          "percentage": 36.441717791411044
+        },
+        "Confidence: The armed forces": {
+          "mode": "Quite a lot",
+          "percentage": 50.5521472392638
+        },
+        "Confidence: The press": {
+          "mean": 0.8684662576687115,
+          "direction": "LOW"
+        },
+        "Confidence: Television": {
+          "mean": 0.9791411042944785,
+          "direction": "AVERAGE"
+        },
+        "Confidence: Labour Unions": {
+          "mode": "Not very much",
+          "percentage": 48.09815950920245
+        }
+      }
+    },
+    "suggested_name": "Young Religious"
+  }
+]
